@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_ID_HERE">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg" alt="Cloudflare’s AI Hacker: The Security Audit Agent That Disproves Your Code!">
+  <a href="https://youtu.be/HJs2wcEHYQk">
+    <img src="https://img.youtube.com/vi/HJs2wcEHYQk/0.jpg" alt="Cloudflare’s AI Hacker: The Security Audit Agent That Disproves Your Code!">
   </a>
-  <h3>📺 <a href="https://youtu.be/YOUR_VIDEO_ID_HERE">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/HJs2wcEHYQk">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # 🛡️ Cloudflare Security Audit Skill
